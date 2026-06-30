@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# KiCad user-specific files
+*.kicad_prl
+*.bak
+
+# KiCad backup folders
+*-backups/
+
+# Lock and temporary files
+*.lck
+*.tmp
